@@ -1,5 +1,4 @@
 
-
 body {
     background-color: #111111;
     margin: 0px;
@@ -48,7 +47,7 @@ h1 {
     margin-right: 5%;
     background-color: rgb(203, 206, 250);
     width: 90%;
-    height: 40em;
+    height: 50em;
     border-radius: 2%;
 
 }
@@ -169,7 +168,13 @@ a {
     text-decoration: none;
 }
 
-@media (min-width: 600px) {
+
+@media screen and (orientation: landscape) {
+    
+   /* #main {
+        flex-direction: column;
+    }*/
+
     #item {
         width: 20em;
         margin-top: 0px;
