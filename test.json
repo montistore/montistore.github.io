@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "username": "Alice",
+            "anything-but-not-plaintext-password": "Puppies and kittens"
+        },
+        {
+            "username": "Bob",
+            "anything-but-not-plaintext-password": "Cheese nuggets"
+        }
+    ]
+}
+
